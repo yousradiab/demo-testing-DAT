@@ -8,6 +8,9 @@
 ## get started
 - create your test file: for example lib.test.js
 - start writing tests
+- use the documentation:
+  - https://jestjs.io/docs/getting-started
+  - https://jestjs.io/docs/api
 
 ## settings
 - coverage: jest --coverage
