@@ -26,6 +26,7 @@ SF:fizzbuzz.js
 FN:1,fizzBuzz
 FNF:1
 FNH:1
+<<<<<<< HEAD
 FNDA:5,fizzBuzz
 DA:2,5
 DA:4,5
@@ -46,6 +47,28 @@ BRDA:8,4,0,4
 BRDA:8,4,1,0
 BRF:10
 BRH:7
+=======
+FNDA:24,fizzBuzz
+DA:2,24
+DA:4,19
+DA:6,16
+DA:8,12
+DA:10,8
+LF:5
+LH:5
+BRDA:2,0,0,5
+BRDA:2,0,1,19
+BRDA:4,1,0,3
+BRDA:4,1,1,16
+BRDA:4,2,0,19
+BRDA:4,2,1,7
+BRDA:6,3,0,4
+BRDA:6,3,1,12
+BRDA:8,4,0,4
+BRDA:8,4,1,8
+BRF:10
+BRH:10
+>>>>>>> f198be6567b1acd88e19d422a8548b228827aeba
 end_of_record
 TN:
 SF:lib.js
@@ -62,7 +85,11 @@ FNDA:3,(anonymous_0)
 FNDA:1,(anonymous_1)
 FNDA:1,(anonymous_2)
 FNDA:1,(anonymous_3)
+<<<<<<< HEAD
 FNDA:6,(anonymous_4)
+=======
+FNDA:7,(anonymous_4)
+>>>>>>> f198be6567b1acd88e19d422a8548b228827aeba
 FNDA:0,(anonymous_5)
 FNDA:0,(anonymous_6)
 DA:5,1
@@ -74,8 +101,13 @@ DA:16,1
 DA:20,1
 DA:21,1
 DA:25,1
+<<<<<<< HEAD
 DA:26,6
 DA:28,0
+=======
+DA:26,7
+DA:28,1
+>>>>>>> f198be6567b1acd88e19d422a8548b228827aeba
 DA:32,1
 DA:33,0
 DA:35,0
@@ -84,6 +116,7 @@ DA:40,0
 DA:42,0
 DA:45,1
 LF:18
+<<<<<<< HEAD
 LH:13
 BRDA:6,0,0,2
 BRDA:6,0,1,1
@@ -93,6 +126,17 @@ BRDA:35,2,0,0
 BRDA:35,2,1,0
 BRF:6
 BRH:3
+=======
+LH:14
+BRDA:6,0,0,2
+BRDA:6,0,1,1
+BRDA:26,1,0,6
+BRDA:26,1,1,1
+BRDA:35,2,0,0
+BRDA:35,2,1,0
+BRF:6
+BRH:4
+>>>>>>> f198be6567b1acd88e19d422a8548b228827aeba
 end_of_record
 TN:
 SF:mail.js
