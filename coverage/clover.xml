@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<<<<<<< HEAD
-<coverage generated="1698919753945" clover="3.2.0">
-  <project timestamp="1698919753945" name="All files">
-    <metrics statements="33" coveredstatements="21" conditionals="16" coveredconditionals="10" methods="12" coveredmethods="6" elements="61" coveredelements="37" complexity="0" loc="33" ncloc="33" packages="1" files="4" classes="4"/>
-    <file name="db.js" path="C:\Users\youss\OneDrive\Skrivebord\Developer\demo-testing-DAT\db.js">
-=======
-<coverage generated="1698919510695" clover="3.2.0">
-  <project timestamp="1698919510695" name="All files">
+<coverage generated="1698921363750" clover="3.2.0">
+  <project timestamp="1698921363750" name="All files">
     <metrics statements="33" coveredstatements="23" conditionals="16" coveredconditionals="14" methods="12" coveredmethods="6" elements="61" coveredelements="43" complexity="0" loc="33" ncloc="33" packages="1" files="4" classes="4"/>
-    <file name="db.js" path="C:\Users\Tomas\Desktop\KEA local\DAT\week_44_test\demo-testing\db.js">
->>>>>>> f198be6567b1acd88e19d422a8548b228827aeba
+    <file name="db.js" path="C:\Users\youss\OneDrive\Skrivebord\Developer\demo-testing-DAT\db.js">
       <metrics statements="8" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
       <line num="4" count="1" type="stmt"/>
       <line num="5" count="0" type="stmt"/>
@@ -20,19 +13,7 @@
       <line num="13" count="0" type="stmt"/>
       <line num="17" count="1" type="stmt"/>
     </file>
-<<<<<<< HEAD
     <file name="fizzbuzz.js" path="C:\Users\youss\OneDrive\Skrivebord\Developer\demo-testing-DAT\fizzbuzz.js">
-      <metrics statements="5" coveredstatements="4" conditionals="10" coveredconditionals="7" methods="1" coveredmethods="1"/>
-      <line num="2" count="5" type="cond" truecount="1" falsecount="1"/>
-      <line num="4" count="5" type="cond" truecount="4" falsecount="0"/>
-      <line num="6" count="4" type="cond" truecount="1" falsecount="1"/>
-      <line num="8" count="4" type="cond" truecount="1" falsecount="1"/>
-      <line num="10" count="0" type="stmt"/>
-    </file>
-    <file name="lib.js" path="C:\Users\youss\OneDrive\Skrivebord\Developer\demo-testing-DAT\lib.js">
-      <metrics statements="18" coveredstatements="13" conditionals="6" coveredconditionals="3" methods="7" coveredmethods="5"/>
-=======
-    <file name="fizzbuzz.js" path="C:\Users\Tomas\Desktop\KEA local\DAT\week_44_test\demo-testing\fizzbuzz.js">
       <metrics statements="5" coveredstatements="5" conditionals="10" coveredconditionals="10" methods="1" coveredmethods="1"/>
       <line num="2" count="24" type="cond" truecount="2" falsecount="0"/>
       <line num="4" count="19" type="cond" truecount="4" falsecount="0"/>
@@ -40,9 +21,8 @@
       <line num="8" count="12" type="cond" truecount="2" falsecount="0"/>
       <line num="10" count="8" type="stmt"/>
     </file>
-    <file name="lib.js" path="C:\Users\Tomas\Desktop\KEA local\DAT\week_44_test\demo-testing\lib.js">
+    <file name="lib.js" path="C:\Users\youss\OneDrive\Skrivebord\Developer\demo-testing-DAT\lib.js">
       <metrics statements="18" coveredstatements="14" conditionals="6" coveredconditionals="4" methods="7" coveredmethods="5"/>
->>>>>>> f198be6567b1acd88e19d422a8548b228827aeba
       <line num="5" count="1" type="stmt"/>
       <line num="6" count="3" type="cond" truecount="2" falsecount="0"/>
       <line num="10" count="1" type="stmt"/>
@@ -52,13 +32,8 @@
       <line num="20" count="1" type="stmt"/>
       <line num="21" count="1" type="stmt"/>
       <line num="25" count="1" type="stmt"/>
-<<<<<<< HEAD
-      <line num="26" count="6" type="cond" truecount="1" falsecount="1"/>
-      <line num="28" count="0" type="stmt"/>
-=======
       <line num="26" count="7" type="cond" truecount="2" falsecount="0"/>
       <line num="28" count="1" type="stmt"/>
->>>>>>> f198be6567b1acd88e19d422a8548b228827aeba
       <line num="32" count="1" type="stmt"/>
       <line num="33" count="0" type="stmt"/>
       <line num="35" count="0" type="cond" truecount="0" falsecount="2"/>
@@ -67,11 +42,7 @@
       <line num="42" count="0" type="stmt"/>
       <line num="45" count="1" type="stmt"/>
     </file>
-<<<<<<< HEAD
     <file name="mail.js" path="C:\Users\youss\OneDrive\Skrivebord\Developer\demo-testing-DAT\mail.js">
-=======
-    <file name="mail.js" path="C:\Users\Tomas\Desktop\KEA local\DAT\week_44_test\demo-testing\mail.js">
->>>>>>> f198be6567b1acd88e19d422a8548b228827aeba
       <metrics statements="2" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
       <line num="1" count="1" type="stmt"/>
       <line num="2" count="0" type="stmt"/>
