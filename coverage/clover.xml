@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1698917992755" clover="3.2.0">
-  <project timestamp="1698917992755" name="All files">
-    <metrics statements="28" coveredstatements="18" conditionals="6" coveredconditionals="4" methods="11" coveredmethods="5" elements="45" coveredelements="27" complexity="0" loc="28" ncloc="28" packages="1" files="3" classes="3"/>
+<coverage generated="1698919510695" clover="3.2.0">
+  <project timestamp="1698919510695" name="All files">
+    <metrics statements="33" coveredstatements="23" conditionals="16" coveredconditionals="14" methods="12" coveredmethods="6" elements="61" coveredelements="43" complexity="0" loc="33" ncloc="33" packages="1" files="4" classes="4"/>
     <file name="db.js" path="C:\Users\Tomas\Desktop\KEA local\DAT\week_44_test\demo-testing\db.js">
       <metrics statements="8" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
       <line num="4" count="1" type="stmt"/>
@@ -12,6 +12,14 @@
       <line num="12" count="0" type="stmt"/>
       <line num="13" count="0" type="stmt"/>
       <line num="17" count="1" type="stmt"/>
+    </file>
+    <file name="fizzbuzz.js" path="C:\Users\Tomas\Desktop\KEA local\DAT\week_44_test\demo-testing\fizzbuzz.js">
+      <metrics statements="5" coveredstatements="5" conditionals="10" coveredconditionals="10" methods="1" coveredmethods="1"/>
+      <line num="2" count="24" type="cond" truecount="2" falsecount="0"/>
+      <line num="4" count="19" type="cond" truecount="4" falsecount="0"/>
+      <line num="6" count="16" type="cond" truecount="2" falsecount="0"/>
+      <line num="8" count="12" type="cond" truecount="2" falsecount="0"/>
+      <line num="10" count="8" type="stmt"/>
     </file>
     <file name="lib.js" path="C:\Users\Tomas\Desktop\KEA local\DAT\week_44_test\demo-testing\lib.js">
       <metrics statements="18" coveredstatements="14" conditionals="6" coveredconditionals="4" methods="7" coveredmethods="5"/>
