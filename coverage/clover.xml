@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1698921363750" clover="3.2.0">
-  <project timestamp="1698921363750" name="All files">
+<coverage generated="1699271028116" clover="3.2.0">
+  <project timestamp="1699271028116" name="All files">
     <metrics statements="33" coveredstatements="23" conditionals="16" coveredconditionals="14" methods="12" coveredmethods="6" elements="61" coveredelements="43" complexity="0" loc="33" ncloc="33" packages="1" files="4" classes="4"/>
     <file name="db.js" path="C:\Users\youss\OneDrive\Skrivebord\Developer\demo-testing-DAT\db.js">
       <metrics statements="8" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
